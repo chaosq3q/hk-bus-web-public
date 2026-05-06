@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">HK Bus Web placeholder icon</title>
+  <desc id="desc">Rounded square app icon with a stylized bus badge and the letters HK.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#17345f" />
+      <stop offset="100%" stop-color="#8f2d14" />
+    </linearGradient>
+    <linearGradient id="panel" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff8f1" />
+      <stop offset="100%" stop-color="#f0e3cd" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#bg)" />
+  <circle cx="256" cy="180" r="112" fill="#ffffff" fill-opacity="0.14" />
+  <rect x="104" y="118" width="304" height="236" rx="72" fill="url(#panel)" />
+  <rect x="138" y="154" width="236" height="120" rx="30" fill="#17345f" />
+  <rect x="158" y="176" width="86" height="40" rx="14" fill="#8dc8ff" />
+  <rect x="266" y="176" width="86" height="40" rx="14" fill="#8dc8ff" />
+  <rect x="166" y="286" width="180" height="18" rx="9" fill="#8f2d14" fill-opacity="0.28" />
+  <circle cx="186" cy="332" r="26" fill="#17345f" />
+  <circle cx="326" cy="332" r="26" fill="#17345f" />
+  <path fill="#8f2d14" d="M180 392h152c18 0 32 14 32 32v20H148v-20c0-18 14-32 32-32Z" />
+  <text
+    x="256"
+    y="434"
+    text-anchor="middle"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="58"
+    font-weight="700"
+    fill="#fff8f1"
+    letter-spacing="6"
+  >
+    HK
+  </text>
+</svg>
