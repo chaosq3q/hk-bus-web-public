@@ -2,11 +2,11 @@
 
 HK Bus Web is a source-code repository for a Vite + React single-page app for checking Hong Kong bus ETAs, saving route cards, and installing the app as a PWA.
 
-Source repository: https://github.com/idk-ar-diu/hk-bus-web
+Source repository: https://github.com/chaosq3q/hk-bus-web
 
 This repository is source-only. It is meant for people to read the code and run it locally, not as a GitHub Pages deployment.
 
-Demo: https://idk-ar-diu.github.io/hk-bus-web/
+Demo: https://chaosq3q.github.io/hk-bus-web/
 
 ## Features
 
